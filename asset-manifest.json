@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b8b588f.css",
+    "main.js": "/static/js/main.0ab269c0.js",
+    "static/media/knightgineers.jpg": "/static/media/knightgineers.16174b240118e2e3fde8.jpg",
+    "static/media/bg-land-test.jpg": "/static/media/bg-land-test.1ce677030be7f8db7c80.jpg",
+    "index.html": "/index.html",
+    "main.9b8b588f.css.map": "/static/css/main.9b8b588f.css.map",
+    "main.0ab269c0.js.map": "/static/js/main.0ab269c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b8b588f.css",
+    "static/js/main.0ab269c0.js"
+  ]
+}
